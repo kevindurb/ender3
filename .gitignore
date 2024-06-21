@@ -1,3 +1,7 @@
 *
 !.gitignore
+!bltouch.cfg
+!calibration.cfg
+!machine.cfg
+!macros.cfg
 !printer.cfg
